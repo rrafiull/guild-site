@@ -16,10 +16,8 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 ---
 
 ##  Quick Links & Resources
-* **[Service Offerings](services)**: How we support project teams.
-* **[Training & Bootcamps](training)**: Upskill your quality engineering path.
-* **[Asset Library](assets)**: Download templates, playbooks, and accelerators.
-* **[Latest Updates](announcements)**: Read the Q3 Practice Newsletter.
+<a href="assets" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📂 Asset Library</a>
+<a href="training" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">🎓 Training</a>
 
 ---
 
