@@ -25,6 +25,6 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 
 ##  Practice Leadership
 Need guidance on which guild to join or how to implement a practice?
-* **Practice Head:** [Name/Email]
-* **Operations Lead:** [Name/Email]
-* **Slack Channel:** `#practice-quality-engineering`
+* **Head of Quality Engineering:** Nimesh Patel
+* **Non Functional Lead:** Deepak Garcha
+* **Functional Leads:** Elizabeth Jones & Shaun Clark
