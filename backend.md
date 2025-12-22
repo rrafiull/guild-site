@@ -2,6 +2,8 @@
 layout: default
 title: Back-End Testing Guild
 ---
+**[🏠 Home](index) — [🎨 UI Guild](ui) — [⚙️ Backend](backend) — [📊 Management](management)**
+---
 # ⚙️ Back-End Testing Guild
 
 > **Purpose & Scope:** To define and maintain the standards for server-side quality, focusing on API integrity, performance scalability, and data security across all engineering teams.
