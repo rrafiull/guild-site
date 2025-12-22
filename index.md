@@ -3,6 +3,8 @@
 > **Our Mission:** To drive excellence in quality through standardised practices, shared knowledge, and lightweight governance. We focus on discoverable assets and reusable accelerators.
 
 ---
+**[🏠 Home](index) — [🎨 UI Guild](ui) — [⚙️ Backend](backend) — [📊 Management](management)**
+---
 
 ## Our Guilds
 We maintain three specialised guilds to foster deep technical expertise. Click a guild below to view their specific resources and meeting schedules.
