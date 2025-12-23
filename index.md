@@ -48,15 +48,21 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 ## 🛠️ Practice Resource Center
 *Authoritative assets and guidance for all teams.*
 
-### 🚀 Delivery & Sales
-<a href="services" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">💼 Service Offerings</a>
-<a href="bids" style="background-color: #6f42c1; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📈 Bids & Pre-Sales</a>
-<a href="templates" style="background-color: #d73a49; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📄 Templates & Assets</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
 
-### 👨‍👩‍👧‍👦 People & Growth
-<a href="about" style="background-color: #444d56; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">🏢 About the Practice</a>
-<a href="training" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">🎓 Training & Skills</a>
-<a href="recruitment" style="background-color: #f66a0a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">👤 Recruitment & Onboarding</a>
+  <a href="services" class="btn-hub" style="background-color: #0366d6; color: white; padding: 20px; text-decoration: none; border-radius: 10px; text-align: center;">
+    <div style="font-size: 24px;">💼</div>
+    <div style="font-size: 18px; margin-top: 10px;">Service Offerings</div>
+    <div style="font-size: 12px; opacity: 0.8;">Catalogue of QE engagement models</div>
+  </a>
+
+  <a href="templates" class="btn-hub" style="background-color: #d73a49; color: white; padding: 20px; text-decoration: none; border-radius: 10px; text-align: center;">
+    <div style="font-size: 24px;">📄</div>
+    <div style="font-size: 18px; margin-top: 10px;">Templates & Assets</div>
+    <div style="font-size: 12px; opacity: 0.8;">Strategies, plans, and framework starters</div>
+  </a>
+
+  </div>
 
 ---
 
