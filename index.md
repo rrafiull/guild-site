@@ -3,6 +3,17 @@ layout: default
 title: Home
 ---
 
+<nav style="background: #f6f8fa; padding: 10px; border-radius: 30px; display: flex; justify-content: center; gap: 15px; border: 1px solid #eaecef; margin-bottom: 30px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+  <a href="index" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">Home</a>
+  <span style="color: #d1d5da;">|</span>
+  <a href="ui" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">UI Guild</a>
+  <span style="color: #d1d5da;">|</span>
+  <a href="backend" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">Backend</a>
+  <span style="color: #d1d5da;">|</span>
+  <a href="management" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">Management</a>
+</nav>
+
+
 <style>
   body { font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #24292e; line-height: 1.6; }
   h1, h2 { border-bottom: 2px solid #eaecef; padding-bottom: 0.3em; transition: color 0.3s; }
@@ -28,17 +39,6 @@ title: Home
 # Functional Quality Engineering Practice
 
 > **Our Mission:** To drive excellence in quality through standardised practices, shared knowledge, and lightweight governance. We focus on discoverable assets and reusable accelerators.
-
-
-<nav style="background: #f6f8fa; padding: 10px; border-radius: 30px; display: flex; justify-content: center; gap: 15px; border: 1px solid #eaecef; margin-bottom: 30px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-  <a href="index" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">Home</a>
-  <span style="color: #d1d5da;">|</span>
-  <a href="ui" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">UI Guild</a>
-  <span style="color: #d1d5da;">|</span>
-  <a href="backend" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">Backend</a>
-  <span style="color: #d1d5da;">|</span>
-  <a href="management" style="text-decoration: none; color: #24292e; font-weight: 600; font-size: 14px; padding: 5px 12px; border-radius: 20px; transition: background 0.3s;">Management</a>
-</nav>
 
 
 
