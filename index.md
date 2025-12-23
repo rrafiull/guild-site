@@ -33,7 +33,6 @@ title: Home
 **[🏠 Home](index) — [🎨 UI Guild](ui) — [⚙️ Backend](backend) — [📊 Management](management)**
 ---
 
-> **Quick Jump:** [Test Strategy Template](templates) | [Interview Guides](recruitment) | [Latest Recording](training)
 
 ## Our Guilds
 We maintain three specialised guilds to foster deep technical expertise. Click a guild below to view their specific resources and meeting schedules.
