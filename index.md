@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Functional Quality Engineering Practice
 
 > **Our Mission:** To drive excellence in quality through standardised practices, shared knowledge, and lightweight governance. We focus on discoverable assets and reusable accelerators.
@@ -18,9 +22,12 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 ---
 
 ##  Quick Links & Resources
-<a href="assets" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📂 Asset Library</a>
-<a href="training" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📚 Training</a>
-<a href="assets" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📦 Service</a>
+
+<a href="services" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">💼 Service Offerings</a>
+<a href="recruitment" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">👤 Recruitment & Onboarding</a>
+<a href="training" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">🎓 Training & Skills</a>
+<a href="bids" style="background-color: #6f42c1; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📈 Bids & Pre-Sales</a>
+<a href="templates" style="background-color: #d73a49; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📄 Templates & Assets</a>
 <a href="training" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">📰 Latest Updates</a>
 
 ---
