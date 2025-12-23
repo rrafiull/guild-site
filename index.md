@@ -48,22 +48,73 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 ## 🛠️ Practice Resource Center
 *Authoritative assets and guidance for all teams.*
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
+<style>
 
-  <a href="services" class="btn-hub" style="background-color: #0366d6; color: white; padding: 20px; text-decoration: none; border-radius: 10px; text-align: center;">
-    <div style="font-size: 24px;">💼</div>
-    <div style="font-size: 18px; margin-top: 10px;">Service Offerings</div>
-    <div style="font-size: 12px; opacity: 0.8;">Catalogue of QE engagement models</div>
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    margin: 20px 0;
+  }
+
+  .card {
+    text-decoration: none !important;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white !important;
+    height: 120px; /* Smaller height */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    filter: brightness(110%);
+  }
+
+  .card-icon { font-size: 24px; margin-bottom: 8px; }
+  .card-title { font-size: 14px; font-weight: bold; line-height: 1.2; }
+</style>
+
+<div class="grid-container">
+
+  <a href="services" class="card" style="background-color: #0366d6;">
+    <div class="card-icon">💼</div>
+    <div class="card-title">Service Offerings</div>
   </a>
 
-  <a href="templates" class="btn-hub" style="background-color: #d73a49; color: white; padding: 20px; text-decoration: none; border-radius: 10px; text-align: center;">
-    <div style="font-size: 24px;">📄</div>
-    <div style="font-size: 18px; margin-top: 10px;">Templates & Assets</div>
-    <div style="font-size: 12px; opacity: 0.8;">Strategies, plans, and framework starters</div>
+  <a href="bids" class="card" style="background-color: #6f42c1;">
+    <div class="card-icon">📈</div>
+    <div class="card-title">Bids & Pre-Sales</div>
   </a>
 
-  </div>
+  <a href="templates" class="card" style="background-color: #d73a49;">
+    <div class="card-icon">📄</div>
+    <div class="card-title">Templates & Assets</div>
+  </a>
 
+  <a href="about" class="card" style="background-color: #444d56;">
+    <div class="card-icon">🏢</div>
+    <div class="card-title">About the Practice</div>
+  </a>
+
+  <a href="training" class="card" style="background-color: #28a745;">
+    <div class="card-icon">🎓</div>
+    <div class="card-title">Training & Skills</div>
+  </a>
+
+  <a href="recruitment" class="card" style="background-color: #f66a0a;">
+    <div class="card-icon">👤</div>
+    <div class="card-title">Recruitment & Onboarding</div>
+  </a>
+
+</div>
 ---
 
 ##  Practice Leadership
