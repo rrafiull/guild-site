@@ -23,6 +23,7 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 
 ##  Quick Links & Resources
 
+<a href="about" style="background-color: #444d56; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">🏢 About the Practice</a>
 <a href="services" style="background-color: #0366d6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">💼 Service Offerings</a>
 <a href="recruitment" style="background-color: #f66a0a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">👤 Recruitment & Onboarding</a>
 <a href="training" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin: 5px;">🎓 Training & Skills</a>
