@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-# Functional Quality Engineering Practice
 
 > **Our Mission:** To drive excellence in quality through standardised practices, shared knowledge, and lightweight governance. We focus on discoverable assets and reusable accelerators.
 
