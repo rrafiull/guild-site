@@ -52,7 +52,7 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 | **[Test Management Guild](management)** | Strategy, Metrics, and Process | [Name] |
 
 ---
-## 🛠️ Practice Resource Center
+## Practice Resource Center
 *Authoritative assets and guidance for all teams.*
 
 <style>
