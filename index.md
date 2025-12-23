@@ -36,22 +36,22 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="text-align: center; width: 150px;">
-    <img src="user.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
+    <img src="user2.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
     <p><strong>Nimesh Patel</strong><br><small>Head of QE</small></p>
   </div>
 
   <div style="text-align: center; width: 150px;">
-    <img src="user.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
+    <img src="user2.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
     <p><strong>Deepak Garcha</strong><br><small>Non-Functional Lead</small></p>
   </div>
 
   <div style="text-align: center; width: 150px;">
-    <img src="user.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
+    <img src="user2.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
     <p><strong>Elizabeth Jones</strong><br><small>Functional Lead</small></p>
   </div>
 
   <div style="text-align: center; width: 150px;">
-    <img src="user.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
+    <img src="user2.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover; border: 2px solid #0366d6;">
     <p><strong>Shaun Clark</strong><br><small>Functional Lead</small></p>
   </div>
 
