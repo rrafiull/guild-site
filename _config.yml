@@ -1,4 +1,11 @@
-title: Functional Quality Engineering Practice
-description: Our internal hub for learning and sharing.
-theme: jekyll-theme-minimal
+title: Functional QE Practice
 logo: /Solirius Reply - LOGO RGB.avif
+show_downloads: false
+google_analytics: 
+theme: jekyll-theme-minimal
+header-pages:
+  - index.md
+  - about.md
+  - services.md
+  - templates.md
+
