@@ -92,32 +92,26 @@ We maintain three specialised guilds to foster deep technical expertise. Click a
 <div class="grid-container">
 
   <a href="services" class="card" style="background-color: #0366d6;">
-    <div class="card-icon">💼</div>
     <div class="card-title">Service Offerings</div>
   </a>
 
   <a href="bids" class="card" style="background-color: #6f42c1;">
-    <div class="card-icon">📈</div>
     <div class="card-title">Bids & Pre-Sales</div>
   </a>
 
   <a href="templates" class="card" style="background-color: #d73a49;">
-    <div class="card-icon">📄</div>
     <div class="card-title">Templates & Assets</div>
   </a>
 
   <a href="about" class="card" style="background-color: #444d56;">
-    <div class="card-icon">🏢</div>
     <div class="card-title">About the Practice</div>
   </a>
 
   <a href="training" class="card" style="background-color: #28a745;">
-    <div class="card-icon">🎓</div>
     <div class="card-title">Training & Skills</div>
   </a>
 
   <a href="recruitment" class="card" style="background-color: #f66a0a;">
-    <div class="card-icon">👤</div>
     <div class="card-title">Recruitment & Onboarding</div>
   </a>
 
